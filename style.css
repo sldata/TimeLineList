@@ -51,7 +51,7 @@ body {
 	transform: translateX(20px);
 }
 .timeline li:nth-child(even)::after {
-	left: -50px;
+	left: -51px;
 	align-self: flex-end;
 	transform: translateX(20px);
 }
@@ -61,7 +61,7 @@ body {
 }
 
 .timeline li:nth-child(odd)::after {
-	right: -32px;
+	right: -31px;
 }
 
 .timeline::before {
